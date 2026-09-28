@@ -1,0 +1,17 @@
+D:\C#\QuanLyDanhBa\bin\Debug\net10.0-windows\QuanLyDanhBa.exe
+D:\C#\QuanLyDanhBa\bin\Debug\net10.0-windows\QuanLyDanhBa.deps.json
+D:\C#\QuanLyDanhBa\bin\Debug\net10.0-windows\QuanLyDanhBa.runtimeconfig.json
+D:\C#\QuanLyDanhBa\bin\Debug\net10.0-windows\QuanLyDanhBa.dll
+D:\C#\QuanLyDanhBa\bin\Debug\net10.0-windows\QuanLyDanhBa.pdb
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.frmDanhBa.resources
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.AssemblyInfoInputs.cache
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.AssemblyInfo.cs
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.dll
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\refint\QuanLyDanhBa.dll
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.pdb
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDanhBa.genruntimeconfig.cache
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\ref\QuanLyDanhBa.dll
+D:\C#\QuanLyDanhBa\obj\Debug\net10.0-windows\QuanLyDa.78CDA0D9.Up2Date

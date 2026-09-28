@@ -1,0 +1,17 @@
+D:\C#\NhapDiemHocSinh\bin\Debug\net10.0-windows\NhapDiemHocSinh.exe
+D:\C#\NhapDiemHocSinh\bin\Debug\net10.0-windows\NhapDiemHocSinh.deps.json
+D:\C#\NhapDiemHocSinh\bin\Debug\net10.0-windows\NhapDiemHocSinh.runtimeconfig.json
+D:\C#\NhapDiemHocSinh\bin\Debug\net10.0-windows\NhapDiemHocSinh.dll
+D:\C#\NhapDiemHocSinh\bin\Debug\net10.0-windows\NhapDiemHocSinh.pdb
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.Form1.resources
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.csproj.GenerateResource.cache
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.AssemblyInfoInputs.cache
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.AssemblyInfo.cs
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.csproj.CoreCompileInputs.cache
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.dll
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\refint\NhapDiemHocSinh.dll
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.pdb
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiemHocSinh.genruntimeconfig.cache
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\ref\NhapDiemHocSinh.dll
+D:\C#\NhapDiemHocSinh\obj\Debug\net10.0-windows\NhapDiem.9B7232A5.Up2Date
