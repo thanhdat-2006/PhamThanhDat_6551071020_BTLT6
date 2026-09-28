@@ -1,0 +1,17 @@
+D:\C#\DatPhongKhachSan\bin\Debug\net10.0-windows\DatPhongKhachSan.exe
+D:\C#\DatPhongKhachSan\bin\Debug\net10.0-windows\DatPhongKhachSan.deps.json
+D:\C#\DatPhongKhachSan\bin\Debug\net10.0-windows\DatPhongKhachSan.runtimeconfig.json
+D:\C#\DatPhongKhachSan\bin\Debug\net10.0-windows\DatPhongKhachSan.dll
+D:\C#\DatPhongKhachSan\bin\Debug\net10.0-windows\DatPhongKhachSan.pdb
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.Form1.resources
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.csproj.GenerateResource.cache
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.AssemblyInfoInputs.cache
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.AssemblyInfo.cs
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.csproj.CoreCompileInputs.cache
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.dll
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\refint\DatPhongKhachSan.dll
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.pdb
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhongKhachSan.genruntimeconfig.cache
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\ref\DatPhongKhachSan.dll
+D:\C#\DatPhongKhachSan\obj\Debug\net10.0-windows\DatPhong.00B3FB5E.Up2Date

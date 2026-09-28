@@ -1,0 +1,17 @@
+D:\C#\UngDungGiaoDoAn\bin\Debug\net10.0-windows\UngDungGiaoDoAn.exe
+D:\C#\UngDungGiaoDoAn\bin\Debug\net10.0-windows\UngDungGiaoDoAn.deps.json
+D:\C#\UngDungGiaoDoAn\bin\Debug\net10.0-windows\UngDungGiaoDoAn.runtimeconfig.json
+D:\C#\UngDungGiaoDoAn\bin\Debug\net10.0-windows\UngDungGiaoDoAn.dll
+D:\C#\UngDungGiaoDoAn\bin\Debug\net10.0-windows\UngDungGiaoDoAn.pdb
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.frmDangKy.resources
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.csproj.GenerateResource.cache
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.AssemblyInfoInputs.cache
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.AssemblyInfo.cs
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.csproj.CoreCompileInputs.cache
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.dll
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\refint\UngDungGiaoDoAn.dll
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.pdb
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungGiaoDoAn.genruntimeconfig.cache
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\ref\UngDungGiaoDoAn.dll
+D:\C#\UngDungGiaoDoAn\obj\Debug\net10.0-windows\UngDungG.043282BF.Up2Date
